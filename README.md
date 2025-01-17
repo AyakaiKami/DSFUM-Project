@@ -40,7 +40,7 @@ Below is an illustration of the wiring setup:
 
 ### Diagram
 - **IR Receptor**
-  - Left pin — Output (Digital Pin X)
+  - Left pin — Output (Digital Pin 3)
   - Middle pin — Ground
   - Right pin — Power Supply (5V)
 
