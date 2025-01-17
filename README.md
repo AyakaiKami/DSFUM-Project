@@ -67,7 +67,7 @@ The laptop application handles:
 The application could be written in Python using libraries like `pyserial` to read data from the Arduino and `subprocess` to execute shell commands.
 
 #### Code Features:
-- A configuration file to define the mapping between IR signals and commands.
+- A mapping between IR signals and commands. 
 - Error handling to ensure invalid or unrecognized signals do not crash the system.
 
 ## Conclusion
